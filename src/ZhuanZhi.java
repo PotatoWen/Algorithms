@@ -1,6 +1,4 @@
-
 //《算法》练习1.1.13题目
-
 
 import edu.princeton.cs.algs4.StdRandom;
 
