@@ -1,3 +1,5 @@
+//创建一个定容栈，然后通过命令来操作入栈、出栈或打印栈头文件
+
 import java.util.Scanner;
 
 public class FixedCapacityStackOfStrings {
