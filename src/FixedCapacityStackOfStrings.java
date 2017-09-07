@@ -26,7 +26,8 @@ public class FixedCapacityStackOfStrings {
     }
 
     private void pop() {
-        --n;
+        //避免对象游离
+        s[--n] = null;
     }
 
     private void stackPrinter() {
